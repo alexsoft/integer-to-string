@@ -1,0 +1,26 @@
+{
+  "name": "integer-to-string",
+  "version": "1.0.0",
+  "description": "Integer To String",
+  "main": "inttostr.js",
+  "filename": "inttostr",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexsoft/integer-to-string"
+  },
+  "author": "AP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexsoft/integer-to-string/issues"
+  },
+  "homepage": "https://github.com/alexsoft/integer-to-string",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-uglify": "~0.2.2"
+  }
+}
